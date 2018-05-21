@@ -6,11 +6,11 @@
 - [Github]：[Android PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip)
 - [build.gradle]： implementation 'c​​om.astuetz：pagerslidingtabstrip：1.0.1'
 
-![](https://i.imgur.com/MBSg2ES.png)
+![](https://github.com/WangXianSong/PagerSlidingTabStripDemo/blob/master/%E6%95%88%E6%9E%9C.jpg)
 
 (效果图片)
 
-![](https://i.imgur.com/qHSOJbP.png)
+![](https://github.com/WangXianSong/PagerSlidingTabStripDemo/blob/master/%E6%9E%B6%E6%9E%84.jpg)
 
 (项目文件)
 
